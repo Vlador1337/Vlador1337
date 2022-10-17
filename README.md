@@ -1,16 +1,20 @@
-### Hi there 👋
+<br>
+<br>
+<p align="center">
+    <img width="12%" src="/AVA.png">
+</p>
 
-<!--
-**Vlador1337/Vlador1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Привет, я <a href="https://www.twitch.tv/vlador1337" target="_blank">Влад</a>!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<br>
+<br>
+</h1> 
 
-Here are some ideas to get you started:
+<h2 align="left">
+<img src="https://w7.pngwing.com/pngs/656/832/png-transparent-computer-icons-information-symbol-press-conference-text-wikimedia-commons-information-sign.png" height="32"/> Обо мне 
+<br>
+<br>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Иногда стримлю, иногда программирую =)</h3>
